@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cabecalho{
+    position:sticky;
+    top: 0;
+    background-color: rgb(22, 22, 61);
+    text-align: center;
+    margin:0px 200px 0px 200px
+    
+}
+h2{
+    margin-top:200px;
+    margin-left:290px;
+}
+p{
+    font-weight: bold;
+    display:inline-block;
+    text-align:justify;
+    margin: 0px 300px 0px;
+}
