@@ -1,20 +1,40 @@
 body{
-    background-color: blue;
+
+    background-image: linear-gradient(yellow,rgb(255, 255, 73)) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .cabecalho{
     position:sticky;
     top: 0;
-    background-color: rgb(22, 22, 61);
+    color: blue;
+    background-color: green;
     text-align: center;
-    margin:0px 200px 0px 200px
+    margin:0px 200px 0px 200px;
+    border: 5px solid green;
     
 }
+.matrix{
+    border: 15px solid #fff8dc;
+    margin: 30px 200px 0px 250px;
+    width:50%
+}
+div{
+    text-align: center;
+    margin-top:50px;
+}
+.ancora{
+    border: 10px solid blue;
+
+    font-size: larger;
+}
 h2{
+    color: blue;
     margin-top:200px;
     margin-left:290px;
 }
 p{
+    color: blue;
+    border:5px darkcyan dotted;
     font-weight: bold;
     display:inline-block;
     text-align:justify;
